@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ertugrul Selim Bark
+- 👀 I’m interested in Game Programming
